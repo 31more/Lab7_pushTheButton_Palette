@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\lab7-master (1)\lab7-master\lab7.1\bin\Debug\lab7.1.exe.config
+C:\Users\user\Desktop\lab7-master (1)\lab7-master\lab7.1\bin\Debug\lab7.1.exe
+C:\Users\user\Desktop\lab7-master (1)\lab7-master\lab7.1\bin\Debug\lab7.1.pdb
+C:\Users\user\Desktop\lab7-master (1)\lab7-master\lab7.1\obj\Debug\PushButton.csprojAssemblyReference.cache
+C:\Users\user\Desktop\lab7-master (1)\lab7-master\lab7.1\obj\Debug\lab7._1.Running_Button.resources
+C:\Users\user\Desktop\lab7-master (1)\lab7-master\lab7.1\obj\Debug\lab7._1.Properties.Resources.resources
+C:\Users\user\Desktop\lab7-master (1)\lab7-master\lab7.1\obj\Debug\PushButton.csproj.GenerateResource.cache
+C:\Users\user\Desktop\lab7-master (1)\lab7-master\lab7.1\obj\Debug\PushButton.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab7-master (1)\lab7-master\lab7.1\obj\Debug\lab7.1.exe
+C:\Users\user\Desktop\lab7-master (1)\lab7-master\lab7.1\obj\Debug\lab7.1.pdb
